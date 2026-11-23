@@ -7,8 +7,8 @@ lang: en
 
 Barrios populares grow, get denser, and new ones appear faster than
 traditional surveys can record. Open building footprints cover the whole
-country one building at a time, and they're updated once a month. That's why
-they can show where ReNaBaP's information might be out of date.
+country one building at a time. That's why they can help show where
+ReNaBaP's information might be out of date.
 
 These tutorials show you how to get the building footprints for Argentina,
 count them in each ReNaBaP neighborhood, and compare those counts with the

@@ -8,8 +8,8 @@ lang: es
 Los barrios populares crecen, se densifican y surgen barrios nuevos más
 rápido de lo que los relevamientos tradicionales pueden registrar. Las
 huellas de edificaciones abiertas cubren todo el país, edificación por
-edificación, y se actualizan una vez por mes. Por eso pueden mostrar dónde la
-información del ReNaBaP puede estar desactualizada.
+edificación. Por eso pueden ayudar a ver dónde la información del ReNaBaP
+puede estar desactualizada.
 
 Estos tutoriales muestran cómo obtener las huellas de edificaciones de la
 Argentina, contarlas en cada barrio del ReNaBaP y comparar esos conteos con

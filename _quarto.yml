@@ -41,7 +41,7 @@ format:
     toc: true
     code-overflow: wrap
 
-# Never run the notebooks during a site build. Each run downloads 5.6 GB.
+# Never run the notebooks during a site build. Each run downloads 3.4 GB.
 # Rerun them with `pixi run execute`, then render the site.
 execute:
   enabled: false

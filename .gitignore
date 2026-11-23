@@ -12,3 +12,7 @@ __pycache__/
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Paquete de Vale que descarga `vale sync`
+.vale/styles/ai-tells/
+.vale/styles/config/templates/
