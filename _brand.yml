@@ -1,0 +1,61 @@
+# CISUR branding, taken from https://cisur.ar (colors and fonts of its theme).
+# Quarto applies this file to every page automatically.
+meta:
+  name: CISUR, Centro para la Integración Socio Urbana
+  link: https://cisur.ar
+
+logo:
+  images:
+    cisur:
+      path: images/cisur_logo.png
+      alt: "CISUR, Centro para la Integración Socio Urbana"
+  medium: cisur
+
+color:
+  palette:
+    pink: "#F73484"        # CISUR accent: buttons, tags, active menu item
+    pink-text: "#d1186b"   # darker pink for link text (5.2:1 on white)
+    navy: "#355868"        # CISUR headings
+    teal: "#378396"        # CISUR icons
+    aqua: "#B9E4E3"        # CISUR divider lines
+    ink: "#2b2b2b"
+  background: "#ffffff"
+  foreground: ink
+  primary: navy
+  secondary: teal
+
+typography:
+  fonts:
+    - family: Open Sans
+      source: google
+      weight: [400, 600, 700]
+      style: [normal, italic]
+    - family: Montserrat
+      source: google
+      weight: [500, 600, 700]
+  base: Open Sans
+  headings:
+    family: Montserrat
+    weight: 700
+    color: navy
+  link:
+    color: pink-text
+
+defaults:
+  bootstrap:
+    defaults:
+      navbar-bg: "#ffffff"
+      navbar-fg: "#355868"
+      navbar-hl: "#d1186b"
+      toc-active-border: "#F73484"
+      code-color: "#355868"
+    rules: |
+      .navbar {
+        border-bottom: 3px solid #B9E4E3;
+      }
+      .navbar-brand img {
+        max-height: 44px;
+      }
+      h2 {
+        border-bottom-color: #B9E4E3;
+      }

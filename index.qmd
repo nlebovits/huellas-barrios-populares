@@ -1,0 +1,24 @@
+---
+title: "Huellas de edificaciones en los barrios populares"
+lang: es
+---
+
+*Anexo del artículo principal. [Read in English](index_en.qmd).*
+
+Los barrios populares crecen, se densifican y surgen barrios nuevos más
+rápido de lo que los relevamientos tradicionales pueden registrar. Las
+huellas de edificaciones abiertas cubren todo el país, edificación por
+edificación, y se actualizan una vez por mes. Por eso pueden mostrar dónde la
+información del ReNaBaP puede estar desactualizada.
+
+Estos tutoriales muestran cómo obtener las huellas de edificaciones de la
+Argentina, contarlas en cada barrio del ReNaBaP y comparar esos conteos con
+la cantidad de familias que informa el registro.
+
+- [Tutorial de Python](tutorial_python_es.ipynb): descargá los datos, contá
+  las edificaciones de los 6.467 barrios registrados y mapeá los resultados
+  para todo el país y para el barrio del ex Club Planeadores, en Los Hornos,
+  La Plata. Para ejecutarlo,
+  [descargá el notebook](tutorial_python_es.ipynb){download="tutorial_python_es.ipynb" data-noresolveinput="true"}, abrí
+  [Google Colab](https://colab.research.google.com/) y hacé clic en
+  **Archivo > Subir cuaderno**.

@@ -1,0 +1,23 @@
+---
+title: "Building footprints in Argentina's barrios populares"
+lang: en
+---
+
+*Annex to the main article. [Leer en español](index.qmd).*
+
+Barrios populares grow, get denser, and new ones appear faster than
+traditional surveys can record. Open building footprints cover the whole
+country one building at a time, and they're updated once a month. That's why
+they can show where ReNaBaP's information might be out of date.
+
+These tutorials show you how to get the building footprints for Argentina,
+count them in each ReNaBaP neighborhood, and compare those counts with the
+number of families the registry reports.
+
+- [Python tutorial](tutorial_python_en.ipynb): Download the data, count the
+  buildings in all 6,467 registered neighborhoods, and map the results for the
+  whole country and for the ex Club Planeadores neighborhood in Los Hornos,
+  La Plata. To run it yourself,
+  [download the notebook](tutorial_python_en.ipynb){download="tutorial_python_en.ipynb" data-noresolveinput="true"}, open
+  [Google Colab](https://colab.research.google.com/), and click
+  **File > Upload notebook**.

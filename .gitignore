@@ -1,0 +1,14 @@
+# Entornos de pixi
+.pixi/
+
+# Datos descargados y salidas de los notebooks
+data/
+outputs/
+
+# Archivos temporales de Quarto y Python
+.quarto/
+__pycache__/
+.ipynb_checkpoints/
+
+/.quarto/
+**/*.quarto_ipynb

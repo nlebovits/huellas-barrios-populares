@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - tutorial_python_es.ipynb
+    - index_en.qmd
+    - tutorial_python_en.ipynb
+  resources:
+    - tutorial_python_es.ipynb
+    - tutorial_python_en.ipynb
+    - .nojekyll  # stops GitHub Pages from running Jekyll on docs/
+
+website:
+  title: "Huellas de edificaciones"
+  site-url: https://nlebovits.github.io/huellas-barrios-populares/
+  repo-url: https://github.com/nlebovits/huellas-barrios-populares
+  favicon: images/cisur_icon.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: tutorial_python_es.ipynb
+        text: Tutorial de Python
+    right:
+      - text: "Idioma / Language"
+        menu:
+          - href: index.qmd
+            text: Español
+          - href: index_en.qmd
+            text: English
+      - icon: github
+        href: https://github.com/nlebovits/huellas-barrios-populares
+        aria-label: GitHub
+
+lang: es
+
+format:
+  html:
+    theme: [cosmo, brand]  # brand last, so _brand.yml wins
+    toc: true
+    code-overflow: wrap
+
+# Never run the notebooks during a site build. Each run downloads 5.6 GB.
+# Rerun them with `pixi run execute`, then render the site.
+execute:
+  enabled: false
