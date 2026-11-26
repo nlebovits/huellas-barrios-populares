@@ -5,20 +5,23 @@ lang: es
 
 *Anexo del artículo principal. [Read in English](index_en.qmd).*
 
-Los barrios populares crecen, se densifican y surgen barrios nuevos más
-rápido de lo que los relevamientos tradicionales pueden registrar. Las
-huellas de edificaciones abiertas cubren todo el país, edificación por
-edificación. Por eso pueden ayudar a ver dónde la información del ReNaBaP
-puede estar desactualizada.
+Entre un relevamiento y otro, los *barrios populares* de la Argentina
+crecen, se densifican y surgen en lugares nuevos. Las huellas de
+edificaciones abiertas ya cubren todo el país. Podrían ayudar a los equipos
+de campo del ReNaBaP a decidir qué barrios volver a visitar y dónde buscar
+asentamientos que faltan en el registro.
 
-Estos tutoriales muestran cómo obtener las huellas de edificaciones de la
-Argentina, contarlas en cada barrio del ReNaBaP y comparar esos conteos con
-la cantidad de familias que informa el registro.
+Estos tutoriales les muestran a equipos de investigación, periodistas,
+gobiernos locales y organizaciones comunitarias cómo examinar las huellas en
+barrios que conocen. Podés comparar los contornos con imágenes satelitales
+para ver qué techos captan y cuáles no. Los relevamientos de campo y el
+conocimiento de vecinos y vecinas pueden ayudar a responder otras preguntas,
+como qué edificaciones son viviendas y cuántas familias viven en ellas.
 
-- [Tutorial de Python](tutorial_python_es.ipynb): descargá los datos, contá
-  las edificaciones de los 6.467 barrios registrados y mapeá los resultados
-  para todo el país y para el barrio del ex Club Planeadores, en Los Hornos,
-  La Plata. Para ejecutarlo,
-  [descargá el notebook](tutorial_python_es.ipynb){download="tutorial_python_es.ipynb" data-noresolveinput="true"}, abrí
-  [Google Colab](https://colab.research.google.com/) y hacé clic en
-  **Archivo > Subir cuaderno**.
+- **[Tutorial de Python](tutorial_python_es.ipynb).** Descargá los datos,
+  contá las edificaciones mapeadas en cada uno de los 6.467 barrios del
+  ReNaBaP y compará las huellas con imágenes satelitales en el ex Club
+  Planeadores, en Los Hornos, La Plata. Para ejecutar el tutorial,
+  [descargá el notebook](tutorial_python_es.ipynb){download="tutorial_python_es.ipynb" data-noresolveinput="true"}
+  y elegí **Archivo > Subir cuaderno** en
+  [Google Colab](https://colab.research.google.com/).

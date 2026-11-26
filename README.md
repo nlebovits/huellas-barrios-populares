@@ -9,8 +9,8 @@ Cada tutorial muestra cómo:
 
 1. Descargar el ReNaBaP, el registro nacional de barrios populares de la Argentina.
 2. Descargar con DuckDB las huellas de edificaciones de [VIDA](https://source.coop/vida/google-microsoft-open-buildings) para la Argentina.
-3. Contar las edificaciones de cada barrio y comparar el conteo con las familias que registra el ReNaBaP.
-4. Mapear la comparación para todo el país y para el barrio del ex Club Planeadores, en Los Hornos, La Plata (ID del ReNaBaP 6541).
+3. Contar las edificaciones de cada barrio del ReNaBaP.
+4. Comparar con imágenes satelitales las huellas del barrio del ex Club Planeadores, en Los Hornos, La Plata (ID del ReNaBaP 6541), sobre imágenes satelitales.
 
 ## Ejecutar un tutorial
 
